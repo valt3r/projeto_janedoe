@@ -1,0 +1,71 @@
+body{
+    font-family: "Raleway", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    border-color: #DCDCDC;
+    border-width: 1px;
+    border-style: solid;
+}
+header h1{
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+#menu ul{
+    padding: 3px;
+    margin: 0px;
+    text-align: center;
+    word-spacing: 10px;
+}
+#menu ul li{
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+    display: inline;
+}
+#menu ul li a{
+    text-decoration: none;
+}
+footer{
+    margin: 0px;
+    padding: 3px;
+    background-color: #DCDCDC;
+    text-align: center;
+}
+footer div{
+    font-size: 8px;
+}
+.jane-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    /* margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    
+}
+.jane-home img {
+    width: 100%;
+    height: auto;
+}
+.article-about{
+    text-align: center;
+}
+.section-about{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    text-align: center;
+}
+.section-about img{
+    width: 280px;
+    height: 200px;
+}
